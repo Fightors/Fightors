@@ -1,6 +1,7 @@
 # Théotime GODEFROY
 
-![Profile Picture](link_to_your_profile_picture)
+![image](https://github.com/Fightors/Fightors/assets/125922172/d1bab328-f2dc-48e4-b164-2166232597df)
+
 
 ## About Me
 
