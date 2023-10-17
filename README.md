@@ -1,8 +1,5 @@
 # Théotime GODEFROY
 
-![image](https://github.com/Fightors/Fightors/assets/125922172/d1bab328-f2dc-48e4-b164-2166232597df)
-
-
 ## About Me
 
 I am passionate about computer science and emerging technologies. Currently, I am a third-year computer science student actively seeking an internship opportunity starting from April 15th.
