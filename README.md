@@ -15,13 +15,12 @@ I am passionate about computer science and emerging technologies. Currently, I a
 
 ## Current Projects
 
-- [Current Project 1](link_to_project_1) - Description of current project 1.
-- [Current Project 2](link_to_project_2) - Description of current project 2.
+- [Manifestation](https://github.com/Fightors/L2-S2-ProjetASD2-Manifestation) - Simulation d'une Manifestation Musicale en C++
 
 ## Past Projects
 
-- [Past Project 1](link_to_past_project_1) - Description of past project 1.
-- [Past Project 2](link_to_past_project_2) - Description of past project 2.
+- [Astronaute](https://github.com/Fightors/L2-S1-ProjetPOO-Astronaute) - Jeu d'astronaute en Java
+- [Jeu de cartes](https://github.com/Fightors/L1-S2-ProjetIDL-JeuDeCartes) - Simulation d'un jeu de cartes en TypeScript
 
 ## Programming Languages
 
