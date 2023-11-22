@@ -15,10 +15,11 @@ I am passionate about computer science and emerging technologies. Currently, I a
 
 ## Current Projects
 
-- [Manifestation](https://github.com/Fightors/L2-S2-ProjetASD2-Manifestation) - Simulation d'une Manifestation Musicale en C++
+- [Compression d'images PGM] - En Java à l'aide de Quadtrees
 
 ## Past Projects
 
+- [Manifestation](https://github.com/Fightors/L2-S2-ProjetASD2-Manifestation) - Simulation d'une Manifestation Musicale en C++
 - [Astronaute](https://github.com/Fightors/L2-S1-ProjetPOO-Astronaute) - Jeu d'astronaute en Java
 - [Jeu de cartes](https://github.com/Fightors/L1-S2-ProjetIDL-JeuDeCartes) - Simulation d'un jeu de cartes en TypeScript
 
