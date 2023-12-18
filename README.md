@@ -13,9 +13,9 @@ I am passionate about computer science and emerging technologies. Currently, I a
 - Punctuality
 - Good sense of humor
 
-## Current Projects
+## Last Project
 
-- [Compression d'images PGM] - En Java à l'aide de Quadtrees
+- [Compression d'images PGM](https://github.com/Fightors/L3-S1-ProjetASD3-CompressionImage) - En Java à l'aide de Quadtrees
 
 ## Past Projects
 
